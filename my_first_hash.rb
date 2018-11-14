@@ -1,5 +1,5 @@
-def my_hash(your_hash)
-  your_hash = {"Lindsay" => "wife", "Brian" => "roomate", "Ted" => "cat"}
+def my_hash
+  my_hash = {key => value}
 end
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
