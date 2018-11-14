@@ -1,4 +1,4 @@
-def my_hash = {"Lindsay" => "wife", "Brian" => "roomate", "Ted" => "cat"}
+my_hash = {"Lindsay" => "wife", "Brian" => "roomate", "Ted" => "cat"}
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
 def shipping_manifest
