@@ -1,4 +1,4 @@
-def my_hash(your_hash) 
+def my_hash(your_hash)
   your_hash = {"Lindsay" => "wife", "Brian" => "roomate", "Ted" => "cat"}
 end
 def shipping_manifest
