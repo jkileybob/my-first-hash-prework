@@ -1,9 +1,6 @@
-my_hash = {
-  "Lindsay" => "wife",
-  "Brian" => "roomate",
-  "Ted" => "cat"}
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
+def my_hash(your_hash) 
+  your_hash = {"Lindsay" => "wife", "Brian" => "roomate", "Ted" => "cat"}
+end
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
   # fill that hash with key/value pairs that describe the following information:
